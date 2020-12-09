@@ -3,7 +3,7 @@ package pagination
 import (
 	"math"
 
-	"github.com/jinzhu/gorm"
+	"gorm.io/gorm"
 )
 
 // Param 分页参数
